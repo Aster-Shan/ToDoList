@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#ADD8E6</color>
+    <color name="spinnerItemTextColor">#000000</color>
+    <color name="primaryLightColor">#BB86FC</color>
+    <color name="primaryDarkColor">#2C3E50</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="secondaryLightColor">#66fff9</color>
+    <color name="secondaryDarkColor">#00c4a7</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#000000</color>
+
+</resources>
